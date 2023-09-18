@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="The runtime environment and workload of software are constantly changing, requiring users to make appropriate adjustments to accommodate these changes. The runtime configuration, however, as the interface for users to manipulate software behavior often requires domain-specific knowledge to understand. This usually results in users spending a considerable amount of time wading through document and user manuals trying to understand the runtime configuration. In this paper, we study the possibility of understanding the intention of runtime configuration options through their documents, even sometimes it is difficult for users to understand. Based on these studies, we classify the runtime configuration option’s intention into six categories. Accordingly, we design runtime Configuration Intention Classifier (CIC), a supervised approach based on CNN to classify the runtime configuration option’s intention according to its document. CIC integrates the features of runtime configuration names and descriptions according to different levels of granularity and predicts the intention of runtime configuration options accordingly. Extensive experiments show that our approach can achieve an accuracy of 85.6% and outperform nine comparative approaches by up to 16.6% over the dataset we customized.">
+  <meta name="description" content="Static analysis tools have gained popularity among developers for finding potential bugs, but their widespread adoption is hindered by the accomnpanying high false alarm rates (up to 90%). To address this challenge, previous studies proposed the concept of actionable warnings, and apply machine-learning methods to distinguish actionable warnings from false alarms. Despite these efforts, our preliminary study suggests that the current methods used to collect actionable warnings are rather shaky and unreliable, resulting in a large proportion of invalid actionable warnings. In this work, we mined 68,274 reversions from Top-500 Github C repositories to create a substantia actionable warning dataset and assigned weak labels to each warning&#39;s likelihood of being a real bug. To automatically identify actionable warnings and recommend those with a high probability of being real bugs (AWHB), we propose a two-stage framework called ACWRecommender. In the first stage, our tool use a pre-trained model, i.e., UniXcoder, to identify actionable warnings from a huge number of SA tool&#39;s reported warnings. In the second stage, we rerank valid actionable warnings to the top by using weakly supervised learning. Experimental results showed that our tool outperformed several baselines for actionable warning detection (in terms of F1-score) and performed better for AWHB recommendation (in terms of nDCG and MRR). Additionaly, we also performed an in-the-wild evaluation, we manually validated 24 warnings out of 2,197 reported warnings on 10 randomly selected projects, 22 of which were confirmed by developers as real bugs, demonstrating the practical usage of our tool.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://zhipengxue97.github.io/publication/deep-understanding-of-runtime-configuration-intention/">
+  <link rel="alternate" hreflang="en-us" href="https://zhipengxue97.github.io/publication/acwrecommender-a-tool-for-validating-actionable-warnings-with-weak-supervision/">
 
   
 
@@ -216,7 +216,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://zhipengxue97.github.io/publication/deep-understanding-of-runtime-configuration-intention/">
+  <link rel="canonical" href="https://zhipengxue97.github.io/publication/acwrecommender-a-tool-for-validating-actionable-warnings-with-weak-supervision/">
 
   
   
@@ -230,15 +230,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Zhipeng Xue&#39;s Homepage">
-  <meta property="og:url" content="https://zhipengxue97.github.io/publication/deep-understanding-of-runtime-configuration-intention/">
-  <meta property="og:title" content="Deep Understanding of Runtime Configuration Intention | Zhipeng Xue&#39;s Homepage">
-  <meta property="og:description" content="The runtime environment and workload of software are constantly changing, requiring users to make appropriate adjustments to accommodate these changes. The runtime configuration, however, as the interface for users to manipulate software behavior often requires domain-specific knowledge to understand. This usually results in users spending a considerable amount of time wading through document and user manuals trying to understand the runtime configuration. In this paper, we study the possibility of understanding the intention of runtime configuration options through their documents, even sometimes it is difficult for users to understand. Based on these studies, we classify the runtime configuration option’s intention into six categories. Accordingly, we design runtime Configuration Intention Classifier (CIC), a supervised approach based on CNN to classify the runtime configuration option’s intention according to its document. CIC integrates the features of runtime configuration names and descriptions according to different levels of granularity and predicts the intention of runtime configuration options accordingly. Extensive experiments show that our approach can achieve an accuracy of 85.6% and outperform nine comparative approaches by up to 16.6% over the dataset we customized."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:url" content="https://zhipengxue97.github.io/publication/acwrecommender-a-tool-for-validating-actionable-warnings-with-weak-supervision/">
+  <meta property="og:title" content="ACWRecommender: A Tool for Validating Actionable Warnings with Weak Supervision | Zhipeng Xue&#39;s Homepage">
+  <meta property="og:description" content="Static analysis tools have gained popularity among developers for finding potential bugs, but their widespread adoption is hindered by the accomnpanying high false alarm rates (up to 90%). To address this challenge, previous studies proposed the concept of actionable warnings, and apply machine-learning methods to distinguish actionable warnings from false alarms. Despite these efforts, our preliminary study suggests that the current methods used to collect actionable warnings are rather shaky and unreliable, resulting in a large proportion of invalid actionable warnings. In this work, we mined 68,274 reversions from Top-500 Github C repositories to create a substantia actionable warning dataset and assigned weak labels to each warning&#39;s likelihood of being a real bug. To automatically identify actionable warnings and recommend those with a high probability of being real bugs (AWHB), we propose a two-stage framework called ACWRecommender. In the first stage, our tool use a pre-trained model, i.e., UniXcoder, to identify actionable warnings from a huge number of SA tool&#39;s reported warnings. In the second stage, we rerank valid actionable warnings to the top by using weakly supervised learning. Experimental results showed that our tool outperformed several baselines for actionable warning detection (in terms of F1-score) and performed better for AWHB recommendation (in terms of nDCG and MRR). Additionaly, we also performed an in-the-wild evaluation, we manually validated 24 warnings out of 2,197 reported warnings on 10 randomly selected projects, 22 of which were confirmed by developers as real bugs, demonstrating the practical usage of our tool."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2021-06-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2023-09-11T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2021-06-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-09-11T00:00:00&#43;00:00">
   
 
   
@@ -260,16 +260,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://zhipengxue97.github.io/publication/deep-understanding-of-runtime-configuration-intention/"
+    "@id": "https://zhipengxue97.github.io/publication/acwrecommender-a-tool-for-validating-actionable-warnings-with-weak-supervision/"
   },
-  "headline": "Deep Understanding of Runtime Configuration Intention",
+  "headline": "ACWRecommender: A Tool for Validating Actionable Warnings with Weak Supervision",
   
-  "datePublished": "2021-06-01T00:00:00Z",
-  "dateModified": "2021-06-01T00:00:00Z",
+  "datePublished": "2023-09-11T00:00:00Z",
+  "dateModified": "2023-09-11T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Chenglong Zhou"
+    "name": "Zhipeng Xue"
   },
   
   "publisher": {
@@ -280,7 +280,7 @@
       "url": "https://zhipengxue97.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "The runtime environment and workload of software are constantly changing, requiring users to make appropriate adjustments to accommodate these changes. The runtime configuration, however, as the interface for users to manipulate software behavior often requires domain-specific knowledge to understand. This usually results in users spending a considerable amount of time wading through document and user manuals trying to understand the runtime configuration. In this paper, we study the possibility of understanding the intention of runtime configuration options through their documents, even sometimes it is difficult for users to understand. Based on these studies, we classify the runtime configuration option’s intention into six categories. Accordingly, we design runtime Configuration Intention Classifier (CIC), a supervised approach based on CNN to classify the runtime configuration option’s intention according to its document. CIC integrates the features of runtime configuration names and descriptions according to different levels of granularity and predicts the intention of runtime configuration options accordingly. Extensive experiments show that our approach can achieve an accuracy of 85.6% and outperform nine comparative approaches by up to 16.6% over the dataset we customized."
+  "description": "Static analysis tools have gained popularity among developers for finding potential bugs, but their widespread adoption is hindered by the accomnpanying high false alarm rates (up to 90%). To address this challenge, previous studies proposed the concept of actionable warnings, and apply machine-learning methods to distinguish actionable warnings from false alarms. Despite these efforts, our preliminary study suggests that the current methods used to collect actionable warnings are rather shaky and unreliable, resulting in a large proportion of invalid actionable warnings. In this work, we mined 68,274 reversions from Top-500 Github C repositories to create a substantia actionable warning dataset and assigned weak labels to each warning's likelihood of being a real bug. To automatically identify actionable warnings and recommend those with a high probability of being real bugs (AWHB), we propose a two-stage framework called ACWRecommender. In the first stage, our tool use a pre-trained model, i.e., UniXcoder, to identify actionable warnings from a huge number of SA tool's reported warnings. In the second stage, we rerank valid actionable warnings to the top by using weakly supervised learning. Experimental results showed that our tool outperformed several baselines for actionable warning detection (in terms of F1-score) and performed better for AWHB recommendation (in terms of nDCG and MRR). Additionaly, we also performed an in-the-wild evaluation, we manually validated 24 warnings out of 2,197 reported warnings on 10 randomly selected projects, 22 of which were confirmed by developers as real bugs, demonstrating the practical usage of our tool."
 }
 </script>
 
@@ -298,7 +298,7 @@
 
 
 
-  <title>Deep Understanding of Runtime Configuration Intention | Zhipeng Xue&#39;s Homepage</title>
+  <title>ACWRecommender: A Tool for Validating Actionable Warnings with Weak Supervision | Zhipeng Xue&#39;s Homepage</title>
 
 </head>
 
@@ -505,7 +505,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Deep Understanding of Runtime Configuration Intention</h1>
+  <h1>ACWRecommender: A Tool for Validating Actionable Warnings with Weak Supervision</h1>
 
   
 
@@ -523,7 +523,7 @@
     
 
   
-  <span>Chenglong Zhou</span>, <span>Haoran Liu</span>, <span>Yuanliang Zhang</span>, <span>Zhipeng Xue</span>, <span>Qing Liao</span>, <span>JinJing Zhao</span>, <span>Ji Wang</span>
+  <span>Zhipeng Xue</span>, <span>Zhipeng Gao</span>, <span>Xing Hu</span>, <span>Shanping Li</span>
   </div>
   
   
@@ -534,7 +534,7 @@
     
       
     
-    June 2021
+    September 2023
   </span>
   
 
@@ -563,57 +563,7 @@
 
 
 
-  
 
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.worldscientific.com/doi/abs/10.1142/S0218194021500236" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/deep-understanding-of-runtime-configuration-intention/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1142/S0218194021500236" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-</div>
 
 
   
@@ -625,7 +575,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">The runtime environment and workload of software are constantly changing, requiring users to make appropriate adjustments to accommodate these changes. The runtime configuration, however, as the interface for users to manipulate software behavior often requires domain-specific knowledge to understand. This usually results in users spending a considerable amount of time wading through document and user manuals trying to understand the runtime configuration. In this paper, we study the possibility of understanding the intention of runtime configuration options through their documents, even sometimes it is difficult for users to understand. Based on these studies, we classify the runtime configuration option’s intention into six categories. Accordingly, we design runtime Configuration Intention Classifier (CIC), a supervised approach based on CNN to classify the runtime configuration option’s intention according to its document. CIC integrates the features of runtime configuration names and descriptions according to different levels of granularity and predicts the intention of runtime configuration options accordingly. Extensive experiments show that our approach can achieve an accuracy of 85.6% and outperform nine comparative approaches by up to 16.6% over the dataset we customized.</p>
+    <p class="pub-abstract">Static analysis tools have gained popularity among developers for finding potential bugs, but their widespread adoption is hindered by the accomnpanying high false alarm rates (up to 90%). To address this challenge, previous studies proposed the concept of actionable warnings, and apply machine-learning methods to distinguish actionable warnings from false alarms. Despite these efforts, our preliminary study suggests that the current methods used to collect actionable warnings are rather shaky and unreliable, resulting in a large proportion of invalid actionable warnings. In this work, we mined 68,274 reversions from Top-500 Github C repositories to create a substantia actionable warning dataset and assigned weak labels to each warning&rsquo;s likelihood of being a real bug. To automatically identify actionable warnings and recommend those with a high probability of being real bugs (AWHB), we propose a two-stage framework called ACWRecommender. In the first stage, our tool use a pre-trained model, i.e., UniXcoder, to identify actionable warnings from a huge number of SA tool&rsquo;s reported warnings. In the second stage, we rerank valid actionable warnings to the top by using weakly supervised learning. Experimental results showed that our tool outperformed several baselines for actionable warning detection (in terms of F1-score) and performed better for AWHB recommendation (in terms of nDCG and MRR). Additionaly, we also performed an in-the-wild evaluation, we manually validated 24 warnings out of 2,197 reported warnings on 10 randomly selected projects, 22 of which were confirmed by developers as real bugs, demonstrating the practical usage of our tool.</p>
     
 
     
@@ -637,8 +587,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#2">
-              Journal article
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -655,7 +605,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>International Journal of Software Engineering and Knowledge Engineering</em></div>
+          <div class="col-12 col-md-9">In <em>2023 38th IEEE/ACM International Conference on Automated Software Engineering Industry Track</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
