@@ -16,7 +16,7 @@ academia: true
 ### Internship
 
 + Research Intern, HUAWEI Hangzhou Research Center, 2023.7-2024.4
-+ Customer Manager, Industrial and Commercial Bank of China, 2016.6-2016.8
++ Risk Analysis Intern, Industrial and Commercial Bank of China, 2016.6-2016.8
 
 ### Teaching Experience
 
