@@ -14,7 +14,7 @@ menu:
   About: /#About
   Publications: /#Publications
   Experiences: /#Experiences
-  Services: /
+  Services: /#Services
 
 # flink picture will load if avator link calls on error
 loading_bg:
