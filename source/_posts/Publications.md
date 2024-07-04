@@ -28,7 +28,7 @@ Accepted as an Early Research Achievement Track Paper [[PDF](https://arxiv.org/p
 
 **Deep Understanding of Runtime Configuration Intention**
 *Chenglong Zhou, Haoran Liu, Yuanliang Zhang,* ***Zhipeng Xue****, Qing Liao, JinJing Zhao, Ji Wang*
-In International Journal of Software Engineering and Knowledge Engineering(**IJSEKE**, , CCF-C), Vol. 31, No. 06, pp. 775-802 (2021) [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S0218194021500236)]
+In International Journal of Software Engineering and Knowledge Engineering(**IJSEKE**, CCF-C), Vol. 31, No. 06, pp. 775-802 (2021) [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S0218194021500236)]
 
 <br>
 
