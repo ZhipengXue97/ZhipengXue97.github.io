@@ -6,6 +6,11 @@ academia: true
 ---
 # Publications
 
+**SelfPiCo: Self-Guided Partial Code Execution with LLMs**
+***Zhipeng Xue***, *Zhipeng Gao, Shaohua Wang, Xing Hu, Xin Xia, Shanping Li*
+In 2024 The ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA'24**, CCF-A)
+Accepted as a Full Paper
+
 **Easy over Hard: A Simple Baseline for Test Failures Causes Prediction**
 *Zhipeng Gao, ***Zhipeng Xue***, Xing Hu, Weiyi Shang, Xin Xia*
 In 2024 The ACM International Conference on the Foundations of Software Engineering (**FSE'24**, CCF-A)
