@@ -27,7 +27,7 @@ In 2022 20th International Conference on Software and Systems Reuse (**ICSR'22**
 Accepted as a Full Paper [[PDF](https://arxiv.org/pdf/2109.12079)][[Code](https://github.com/ZhipengXue97/SEED)]
 
 **Clone-based Code Method Usage Pattern Mining**
-***Zhipeng Xue^#^***, *Yuanliang Zhang^#^, Rulin Xu*
+***Zhipeng Xue<sup>#</sup>**, *Yuanliang Zhang<sup>#</sup>, Rulin Xu*
 In 2022 IEEE/ACM 30th International Conference on Program Comprehension (**ICPC'22**, CCF-B)
 Accepted as an Early Research Achievement Track Paper [[PDF](https://arxiv.org/pdf/2109.13099)]
 
