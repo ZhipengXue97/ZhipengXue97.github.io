@@ -9,7 +9,7 @@ academia: true
 **SelfPiCo: Self-Guided Partial Code Execution with LLMs**
 ***Zhipeng Xue***, *Zhipeng Gao, Shaohua Wang, Xing Hu, Xin Xia, Shanping Li*
 In 2024 The ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA'24**, CCF-A)
-Accepted as a Full Paper
+Accepted as a Full Paper [[PDF](https://arxiv.org/abs/2407.16974)][[Code](https://zenodo.org/records/10401593)]
 
 **Easy over Hard: A Simple Baseline for Test Failures Causes Prediction**
 *Zhipeng Gao, ***Zhipeng Xue***, Xing Hu, Weiyi Shang, Xin Xia*
@@ -27,7 +27,7 @@ In 2022 20th International Conference on Software and Systems Reuse (**ICSR'22**
 Accepted as a Full Paper [[PDF](https://arxiv.org/pdf/2109.12079)][[Code](https://github.com/ZhipengXue97/SEED)]
 
 **Clone-based Code Method Usage Pattern Mining**
-***Zhipeng Xue***, *Yuanliang Zhang, Rulin Xu*
+***Zhipeng Xue^#^***, *Yuanliang Zhang^#^, Rulin Xu*
 In 2022 IEEE/ACM 30th International Conference on Program Comprehension (**ICPC'22**, CCF-B)
 Accepted as an Early Research Achievement Track Paper [[PDF](https://arxiv.org/pdf/2109.13099)]
 
