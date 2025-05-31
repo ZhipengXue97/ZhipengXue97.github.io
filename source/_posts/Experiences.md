@@ -15,6 +15,7 @@ academia: true
 
 ### Internship
 
++ Research Intern, Keen Lab, Tencent, 2024.11-2025.4
 + Research Intern, HUAWEI Hangzhou Research Center, 2023.7-2024.4
 + Risk Analysis Intern, Industrial and Commercial Bank of China, 2016.6-2016.8
 
