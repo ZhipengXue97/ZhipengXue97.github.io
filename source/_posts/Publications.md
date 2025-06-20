@@ -6,6 +6,11 @@ academia: true
 ---
 # Publications
 
+**Automating Just-In-Time Python Type Annotation Updating**
+***Zhipeng Xue***, *Zhipeng Gao, Xing Hu, Jingyuan Chen, Xin Xia, Shanping Li*
+In 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A)
+Accepted as a Full Paper
+
 **SelfPiCo: Self-Guided Partial Code Execution with LLMs**
 ***Zhipeng Xue***, *Zhipeng Gao, Shaohua Wang, Xing Hu, Xin Xia, Shanping Li*
 In 2024 The ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA'24**, CCF-A)
