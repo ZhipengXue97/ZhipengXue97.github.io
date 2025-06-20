@@ -24,7 +24,7 @@ Accepted as an Industry Track Paper [[PDF](https://arxiv.org/pdf/2405.02922)]
 **ACWRecommender: A Tool for Validating Actionable Warnings with Weak Supervision**
 ***Zhipeng Xue***, *Zhipeng Gao, Xing Hu, Shanping Li*
 In 2023 38th IEEE/ACM International Conference on Automated Software (**ASE'23**, CCF-A)
-Accepted as an Industry Challenge Track Paper, **Distinguished Paper Award** [[PDF](https://arxiv.org/pdf/2309.09721)][[Code](https://github.com/ZhipengXue97/AWRecommender)]
+Accepted as an Industry Challenge Track Paper, 🏆**Distinguished Paper Award** [[PDF](https://arxiv.org/pdf/2309.09721)][[Code](https://github.com/ZhipengXue97/AWRecommender)]
 
 **SEED: Semantic Graph Based Deep Detection for Type-4 Clone**
 ***Zhipeng Xue***, *Zhijie Jiang, Chenlin Huang, Rulin Xu, Xiangbing Huang, Liumin Hu*
