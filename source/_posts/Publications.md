@@ -29,7 +29,7 @@ Accepted as a Full Paper [[PDF](https://arxiv.org/abs/2407.16974)][[Code](https:
 **Easy over Hard: A Simple Baseline for Test Failures Causes Prediction**
 *Zhipeng Gao, ***Zhipeng Xue***, Xing Hu, Weiyi Shang, Xin Xia*
 In 2024 The ACM International Conference on the Foundations of Software Engineering (**FSE'24**, CCF-A)
-Accepted as an Industry Track Paper [[PDF](https://arxiv.org/pdf/2405.02922)]
+Accepted as an Industry Track Full Paper [[PDF](https://arxiv.org/pdf/2405.02922)]
 
 **ACWRecommender: A Tool for Validating Actionable Warnings with Weak Supervision**
 ***Zhipeng Xue***, *Zhipeng Gao, Xing Hu, Shanping Li*
