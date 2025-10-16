@@ -6,6 +6,15 @@ academia: true
 ---
 # Publications
 
+**Diffploit: Facilitating Cross-Version Exploit Migration for
+Open Source Library Vulnerabilities**, *Zirui Chen*, ***Zhipeng Xue***, *Jiayuan Zhou, Xing Hu, Xin Xia, Xiaohu Yang*
+In 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A)
+Accepted as a Full Paper
+
+**Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision**, ***Zhipeng Xue***, *Zhipeng Gao, Tongtong Xu, Xing Hu, Xin Xia, Shanping Li*
+In 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A)
+Accepted as a Full Paper
+
 **Automating Just-In-Time Python Type Annotation Updating**
 ***Zhipeng Xue***, *Zhipeng Gao, Xing Hu, Jingyuan Chen, Xin Xia, Shanping Li*
 In 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A)
