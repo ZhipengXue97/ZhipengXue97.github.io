@@ -12,5 +12,5 @@ academia: true
 + Reviewer of The Journal of Supercomputing(**TJSC**, CCF-C)
 
 ### Conference
-+ Shadow Program Committee Member of 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A)
++ Shadow Program Committee Member of 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A), 🏆**Distinguished Reviewer Award**
 + Program Committee Member of 21th International Conference on Software and Systems Reuse (**ICSR'23**, CCF-C)

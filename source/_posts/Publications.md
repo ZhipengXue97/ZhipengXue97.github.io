@@ -47,9 +47,12 @@ In 2022 IEEE/ACM 30th International Conference on Program Comprehension (**ICPC'
 Accepted as an Early Research Achievement Track Paper [[PDF](https://arxiv.org/pdf/2109.13099)]
 
 **Deep Understanding of Runtime Configuration Intention**
-*Chenglong Zhou, Haoran Liu, Yuanliang Zhang,* ***Zhipeng Xue****, Qing Liao, JinJing Zhao, Ji Wang*
-In International Journal of Software Engineering and Knowledge Engineering(**IJSEKE**, CCF-C), Vol. 31, No. 06, pp. 775-802 (2021) [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S0218194021500236)]
+*Chenglong Zhou, Haoran Liu, Yuanliang Zhang, ***Zhipeng Xue***, Qing Liao, JinJing Zhao, Ji Wang*
+In International Journal of Software Engineering and Knowledge Engineering(**IJSEKE**, CCF-C) [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S0218194021500236)]
 
+**Plant disease identification based on deep learning algorithm in smart farming**
+*Yan Guo, Jin Zhang, Chengxin Yin, Xiaonan Hu, Yu Zou, ***Zhipeng Xue***, Wei Wang*
+In Discrete Dynamics in Nature and Society(SCI, JCR-Q2) [[PDF](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/2479172)]
 <br>
 
 ---
