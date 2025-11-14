@@ -48,11 +48,11 @@ Accepted as an Early Research Achievement Track Paper [[PDF](https://arxiv.org/p
 
 **Deep Understanding of Runtime Configuration Intention**
 *Chenglong Zhou, Haoran Liu, Yuanliang Zhang, ***Zhipeng Xue***, Qing Liao, JinJing Zhao, Ji Wang*
-In International Journal of Software Engineering and Knowledge Engineering(**IJSEKE**, CCF-C) [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S0218194021500236)]
+In International Journal of Software Engineering and Knowledge Engineering (**IJSEKE**, CCF-C) [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S0218194021500236)]
 
 **Plant disease identification based on deep learning algorithm in smart farming**
 *Yan Guo, Jin Zhang, Chengxin Yin, Xiaonan Hu, Yu Zou, ***Zhipeng Xue***, Wei Wang*
-In Discrete Dynamics in Nature and Society(SCI, JCR-Q2) [[PDF](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/2479172)]
+In Discrete Dynamics in Nature and Society (SCI, JCR-Q2) [[PDF](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/2479172)]
 <br>
 
 ---
