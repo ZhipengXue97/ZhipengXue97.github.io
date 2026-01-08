@@ -8,7 +8,7 @@ academia: true
 
 **Clean Code, Better Models: Enhancing LLM Performance with Smell-Cleaned Dataset**
 ***Zhipeng Xue<sup>#</sup>***, *Xiaoting Zhang<sup>#</sup>, Zhipeng Gao, Xing Hu, Shan Gao, Xin Xia, Shanping Li*
-In International Journal of Software Engineering and Knowledge Engineering (**TOSEM**, CCF-A) [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S0218194021500236)]
+In ACM Transactions on Software Engineering and Methodology (**TOSEM**, CCF-A)
 
 
 
