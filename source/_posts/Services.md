@@ -8,9 +8,12 @@ academia: true
 
 ### Journal
 + Reviewer of IEEE Transactions on Dependable and Secure Computing(**TDSC**, CCF-A)
++ Reviewer of Empirical Software Engineering(**EMSE**, CCF-B)
++ Reviewer of Journal of Software: Evolution and Process(**JSEP**, CCF-B)
 + Reviewer of International Journal of Software Engineering and Knowledge Engineering(**IJSEKE**, CCF-C)
 + Reviewer of The Journal of Supercomputing(**TJSC**, CCF-C)
 
 ### Conference
++ Program Committee Member of 2027 The IEEE/ACM International Conference on Software Engineering (**ICSE'27**, CCF-A), 
 + Shadow Program Committee Member of 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A), 🏆**Distinguished Reviewer Award**
 + Program Committee Member of 21th International Conference on Software and Systems Reuse (**ICSR'23**, CCF-C)
