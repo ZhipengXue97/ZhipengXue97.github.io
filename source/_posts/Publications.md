@@ -18,7 +18,7 @@ Accepted as a Full Paper
 **Automating Just-In-Time Python Type Annotation Updating**
 ***Zhipeng Xue***, *Zhipeng Gao, Xing Hu, Jingyuan Chen, Xin Xia, Shanping Li*
 In 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A)
-Accepted as a Full Paper
+Accepted as a Full Paper, 🏆**ACM SIGSOFT Distinguished Paper Award**
 
 **Diffploit: Facilitating Cross-Version Exploit Migration for Open Source Library Vulnerabilities**
 *Zirui Chen*, ***Zhipeng Xue***, *Jiayuan Zhou, Xing Hu, Xin Xia, Xiaohu Yang*
