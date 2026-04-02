@@ -9,6 +9,7 @@ academia: true
 **Clean Code, Better Models: Enhancing LLM Performance with Smell-Cleaned Dataset**
 ***Zhipeng Xue<sup>#</sup>***, *Xiaoting Zhang<sup>#</sup>, Zhipeng Gao, Xing Hu, Shan Gao, Xin Xia, Shanping Li*
 In ACM Transactions on Software Engineering and Methodology (**TOSEM**, CCF-A)
+Accepted as a Full Paper [[PDF](https://dl.acm.org/doi/epdf/10.1145/3793252)][[Code](https://zenodo.org/records/17578401)]
 
 **Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision**
 ***Zhipeng Xue***, *Zhipeng Gao, Tongtong Xu, Xing Hu, Xin Xia, Shanping Li*
