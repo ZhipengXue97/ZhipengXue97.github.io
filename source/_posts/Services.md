@@ -7,12 +7,13 @@ academia: true
 # Services
 
 ### Journal
-+ Reviewer of ACM Transactions on Software Engineering and Methodology(**TOSEM**, CCF-A)
-+ Reviewer of IEEE Transactions on Dependable and Secure Computing(**TDSC**, CCF-A)
-+ Reviewer of Empirical Software Engineering(**EMSE**, CCF-B)
-+ Reviewer of Journal of Software: Evolution and Process(**JSEP**, CCF-B)
-+ Reviewer of International Journal of Software Engineering and Knowledge Engineering(**IJSEKE**, CCF-C)
-+ Reviewer of The Journal of Supercomputing(**TJSC**, CCF-C)
++ Reviewer of ACM Transactions on Software Engineering and Methodology (**TOSEM**, CCF-A)
++ Reviewer of IEEE Transactions on Dependable and Secure Computing (**TDSC**, CCF-A)
++ Reviewer of Empirical Software Engineering (**EMSE**, CCF-B)
++ Reviewer of Journal of Software: Evolution and Process (**JSEP**, CCF-B)
++ Reviewer of Automated Software Engineering (**ASEJ**, CCF-B)
++ Reviewer of International Journal of Software Engineering and Knowledge Engineering (**IJSEKE**, CCF-C)
+
 
 ### Conference
 + Program Committee Member of 2027 The IEEE/ACM International Conference on Software Engineering (**ICSE'27**, CCF-A), 
