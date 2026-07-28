@@ -6,8 +6,10 @@ academia: true
 ---
 # Publications
 
-**Clean Code, Better Models: Enhancing LLM Performance with Smell-Cleaned Dataset**
-Zhijie Liu, Yisi Liu, Linxi Jiang, Yutian Tang, Lili Xiao<sup>*</sup>, Xin Xia, **Zhipeng Xue<sup>*</sup>***
+<sup>#</sup> Equal contribution; <sup>*</sup> Corresponding author.
+
+**Lost in Translation, Found in Summary: Summary-Driven Supervision for Cross-Language Code Retrieval**
+*Zhijie Liu, Yisi Liu, Linxi Jiang, Yutian Tang, Lili Xiao<sup>\*</sup>, **Zhipeng Xue<sup>\*</sup>***
 In 2026 The IEEE/ACM International Conference on Automated Software (**ASE'26**, CCF-A)
 Accepted as a Full Paper 
 
