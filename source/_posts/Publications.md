@@ -21,7 +21,7 @@ Accepted as a Full Paper [[PDF](https://dl.acm.org/doi/epdf/10.1145/3793252)][[C
 **Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision**
 ***Zhipeng Xue***, *Zhipeng Gao, Tongtong Xu, Xing Hu, Xin Xia, Shanping Li*
 In 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A)
-Accepted as a Full Paper
+Accepted as a Full Paper [[PDF](https://arxiv.org/abs/2511.12229)][[Code](https://github.com/ZhipengXue97/AWRecommender)]
 
 **Automating Just-In-Time Python Type Annotation Updating**
 ***Zhipeng Xue***, *Zhipeng Gao, Xing Hu, Jingyuan Chen, Xin Xia, Shanping Li*
