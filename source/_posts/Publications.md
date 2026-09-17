@@ -21,17 +21,17 @@ Accepted as a Full Paper [[PDF](https://dl.acm.org/doi/epdf/10.1145/3793252)][[C
 **Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision**
 ***Zhipeng Xue***, *Zhipeng Gao, Tongtong Xu, Xing Hu, Xin Xia, Shanping Li*
 In 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A)
-Accepted as a Full Paper [[PDF](https://arxiv.org/abs/2511.12229)][[Code](https://github.com/ZhipengXue97/AWRecommender)]
+Accepted as a Full Paper [[PDF](https://dl.acm.org/doi/epdf/10.1145/3744916.3773133)][[Code](https://github.com/ZhipengXue97/AWRecommender)]
 
 **Automating Just-In-Time Python Type Annotation Updating**
 ***Zhipeng Xue***, *Zhipeng Gao, Xing Hu, Jingyuan Chen, Xin Xia, Shanping Li*
 In 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A)
-Accepted as a Full Paper [[PDF](https://arxiv.org/abs/2607.09054)][[Code](https://zenodo.org/records/13164888)]🏆**ACM SIGSOFT Distinguished Paper Award** 
+Accepted as a Full Paper [[PDF](https://dl.acm.org/doi/epdf/10.1145/3744916.3764565)][[Code](https://zenodo.org/records/13164888)]🏆**ACM SIGSOFT Distinguished Paper Award** 
 
 **Diffploit: Facilitating Cross-Version Exploit Migration for Open Source Library Vulnerabilities**
 *Zirui Chen*, ***Zhipeng Xue***, *Jiayuan Zhou, Xing Hu, Xin Xia, Xiaohu Yang*
 In 2026 The IEEE/ACM International Conference on Software Engineering (**ICSE'26**, CCF-A)
-Accepted as a Full Paper [[PDF](https://arxiv.org/abs/2511.12950)][[Code](https://github.com/chen-zirui/PoCAdaptation)]
+Accepted as a Full Paper [[PDF](https://dl.acm.org/doi/epdf/10.1145/3744916.3773205)][[Code](https://github.com/chen-zirui/PoCAdaptation)]
 
 **SelfPiCo: Self-Guided Partial Code Execution with LLMs**
 ***Zhipeng Xue***, *Zhipeng Gao, Shaohua Wang, Xing Hu, Xin Xia, Shanping Li*
