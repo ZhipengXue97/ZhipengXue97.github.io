@@ -36,17 +36,17 @@ Accepted as a Full Paper [[PDF](https://dl.acm.org/doi/epdf/10.1145/3744916.3773
 **SelfPiCo: Self-Guided Partial Code Execution with LLMs**
 ***Zhipeng Xue***, *Zhipeng Gao, Shaohua Wang, Xing Hu, Xin Xia, Shanping Li*
 In 2024 The ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA'24**, CCF-A)
-Accepted as a Full Paper [[PDF](https://arxiv.org/abs/2407.16974)][[Code](https://zenodo.org/records/10401593)]
+Accepted as a Full Paper [[PDF](https://dl.acm.org/doi/epdf/10.1145/3650212.3680368)][[Code](https://zenodo.org/records/10401593)]
 
 **Easy over Hard: A Simple Baseline for Test Failures Causes Prediction**
 *Zhipeng Gao, ***Zhipeng Xue***, Xing Hu, Weiyi Shang, Xin Xia*
 In 2024 The ACM International Conference on the Foundations of Software Engineering (**FSE'24**, CCF-A)
-Accepted as an Industry Track Full Paper [[PDF](https://arxiv.org/pdf/2405.02922)]
+Accepted as an Industry Track Full Paper [[PDF](https://dl.acm.org/doi/epdf/10.1145/3663529.3663850)]
 
 **ACWRecommender: A Tool for Validating Actionable Warnings with Weak Supervision**
 ***Zhipeng Xue***, *Zhipeng Gao, Xing Hu, Shanping Li*
 In 2023 The IEEE/ACM International Conference on Automated Software (**ASE'23**, CCF-A)
-Accepted as an Industry Challenge Track Paper, [[PDF](https://arxiv.org/pdf/2309.09721)][[Code](https://github.com/ZhipengXue97/AWRecommender)]🏆**Distinguished Paper Award**
+Accepted as an Industry Challenge Track Paper, [[PDF](https://dl.acm.org/doi/epdf/10.1109/ASE56229.2023.00169)][[Code](https://github.com/ZhipengXue97/AWRecommender)]🏆**Distinguished Paper Award**
 
 **SEED: Semantic Graph Based Deep Detection for Type-4 Clone**
 ***Zhipeng Xue***, *Zhijie Jiang, Chenlin Huang, Rulin Xu, Xiangbing Huang, Liumin Hu*
@@ -56,7 +56,7 @@ Accepted as a Full Paper [[PDF](https://arxiv.org/pdf/2109.12079)][[Code](https:
 **Clone-based Code Method Usage Pattern Mining**
 ***Zhipeng Xue<sup>#</sup>***, *Yuanliang Zhang<sup>#</sup>, Rulin Xu*
 In 2022 IEEE/ACM International Conference on Program Comprehension (**ICPC'22**, CCF-B)
-Accepted as an Early Research Achievement Track Paper [[PDF](https://arxiv.org/pdf/2109.13099)]
+Accepted as an Early Research Achievement Track Paper [[PDF](https://dl.acm.org/doi/epdf/10.1145/3524610.3527880)]
 
 **Deep Understanding of Runtime Configuration Intention**
 *Chenglong Zhou, Haoran Liu, Yuanliang Zhang, ***Zhipeng Xue***, Qing Liao, JinJing Zhao, Ji Wang*
