@@ -11,7 +11,7 @@ academia: true
 **Lost in Translation, Found in Summary: Summary-Driven Supervision for Cross-Language Code Retrieval**
 *Zhijie Liu, Yisi Liu, Linxi Jiang, Yutian Tang, Lili Xiao<sup>\*</sup>, **Zhipeng Xue<sup>\*</sup>***
 In 2026 The IEEE/ACM International Conference on Automated Software (**ASE'26**, CCF-A)
-Accepted as a Full Paper 
+Accepted as a Full Paper [[PDF](https://dl.acm.org/doi/epdf/10.1145/3832783.3837444)][[Code](https://zenodo.org/records/19266988)]
 
 **Clean Code, Better Models: Enhancing LLM Performance with Smell-Cleaned Dataset**
 ***Zhipeng Xue<sup>#</sup>***, *Xiaoting Zhang<sup>#</sup>, Zhipeng Gao, Xing Hu, Shan Gao, Xin Xia, Shanping Li*
